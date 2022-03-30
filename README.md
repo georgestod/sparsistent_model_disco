@@ -1,5 +1,5 @@
 # Sparsistent Model Discovery
-#### In this repo, we share the code, data and results of the paper (https://arxiv.org/abs/2106.11936)
+#### In this repo, we share the code, data and results of the paper  (https://arxiv.org/abs/2106.11936)
 ###
 ### (1) Randomised Adaptive Lasso:
 #### we propose and implement a randomized adaptive Lasso with stability selection and error control
